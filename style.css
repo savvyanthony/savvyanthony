@@ -1,0 +1,62 @@
+body{ 
+    background-image: url("savvy.jpg");
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+    background-size:cover;
+
+}
+h1{ 
+  background:linear-gradient(to left,skyblue, white);
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  color:blue;
+  font-size: x-large;
+  font-weight:bolder;
+  border-top-style:dotted;
+  border-bottom-style:dotted;
+  border-left-style:dotted;
+  border-right-style:dotted;
+  border-color:red;
+  
+}
+
+p{
+  background:linear-gradient(to left,skyblue, white);
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-color:gray;
+  color:white;
+  border-style:outset;
+  border-width:5px;
+  border-color:white;
+  border-radius:50px;
+  padding:20px;
+}
+#p1{
+    color:red;
+}
+
+#box1{
+     border:10px solid;
+     width: 250px;
+     height:250px;
+     font-size:22px;
+     background: blue;
+
+     margin-top:50px;
+     margin-right:50px;
+     margin-bottom: 50px;
+     padding-left: 50px;
+     margin-right: auto;
+     margin-left: auto;
+
+}
+
+#box2{
+    border:5px solid;
+     width: 250px;
+     height:250px;
+     background:white;
+}
+
